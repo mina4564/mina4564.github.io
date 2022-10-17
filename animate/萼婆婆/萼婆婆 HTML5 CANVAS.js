@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"M3A33 作業五 完成_HTML5 Canvas_atlas_1", frames: [[0,0,770,699],[772,0,661,671],[0,701,484,569],[772,673,578,507]]}
+		{name:"萼婆婆 HTML5 CANVAS_atlas_1", frames: [[0,0,770,699],[772,0,661,671],[0,701,484,569],[772,673,578,507]]}
 ];
 
 
@@ -28,28 +28,28 @@ lib.ssMetadata = [
 
 
 (lib.圖層1 = function() {
-	this.initialize(ss["M3A33 作業五 完成_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 HTML5 CANVAS_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層2 = function() {
-	this.initialize(ss["M3A33 作業五 完成_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 HTML5 CANVAS_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層3 = function() {
-	this.initialize(ss["M3A33 作業五 完成_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 HTML5 CANVAS_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層4 = function() {
-	this.initialize(ss["M3A33 作業五 完成_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["萼婆婆 HTML5 CANVAS_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -208,7 +208,7 @@ if (reversed == null) { reversed = false; }
 
 
 // stage content:
-(lib.M3A33作業五完成_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.萼婆婆HTML5CANVAS = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -277,7 +277,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/M3A33 作業五 完成_HTML5 Canvas_atlas_1.png", id:"M3A33 作業五 完成_HTML5 Canvas_atlas_1"}
+		{src:"images/萼婆婆 HTML5 CANVAS_atlas_1.png?1665978999585", id:"萼婆婆 HTML5 CANVAS_atlas_1"}
 	],
 	preloads: []
 };
